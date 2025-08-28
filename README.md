@@ -1,4 +1,4 @@
-# React Fundamentals Project 🚀
+# DOCS - React Fundamentals Project 🚀
 
 This project is a simple yet practical showcase of **React fundamentals** built with **Vite**.  
 The goal of this project was to practice and apply the core concepts of React while also experimenting with interactivity using **Framer Motion**.
